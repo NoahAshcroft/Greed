@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A77kB4lDFpGwDned+RHvV8PQrRy0qIzkxd69Rq/Ob+A3EKosXp1fLPR8l0uPwjkBaOREEzRD8c+Yxuj6Vtoxxw==",
+  "success": true,
+  "projectFilePath": "/Users/noahashcroft/Desktop/CSE210/Greed/Greed.csproj",
+  "expectedPackageFiles": [
+    "/Users/noahashcroft/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/noahashcroft/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
